@@ -1,4 +1,4 @@
-бэкенд от [фронта на Vue](https://github.com/bad4iz/playground-vue-apollo) на Laravel php  
+бэкенд от [фронта на Vue](https://github.com/bad4iz/booksql-vue) на Laravel php  
 по видеоурокам [GraphQL with Laravel & Vue](https://youtube.com/playlist?list=PLEhEHUEU3x5qsA5JnRzhgOghrH9Vqz4cg)
 
 ## Project setup
